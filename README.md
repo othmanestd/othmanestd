@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Othmane Sadiki 👋
 
-<!--
-**othmanestd/othmanestd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Engineer | Cloud & Big Data
 
-Here are some ideas to get you started:
+I build scalable data pipelines and lakehouse architectures on Azure & Databricks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+
+**Cloud & Data Platforms:** Azure (Event Hubs, Data Lake Gen2, Data Factory, Synapse), Databricks, Delta Lake
+**Processing:** Apache Spark, PySpark, Spark Structured Streaming
+**Orchestration:** Apache Airflow, Azure Data Factory
+**Languages:** Python, SQL, PySpark, Java
+**Databases:** MySQL, SQL Server, MongoDB, Vertica
+**Visualization:** Power BI, Celonis, Tableau
+**DevOps:** Docker, Kubernetes, GitLab CI/CD, Jenkins, Azure DevOps
+
+### 📊 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [DataFlow360](link) | Real-time streaming pipeline with lakehouse architecture | Azure Event Hubs · Databricks · Delta Lake · Synapse · Power BI |
+| [Lakehouse-DQ-Pipeline](link) | Bronze/Silver/Gold architecture with data quality checks | PySpark · Delta Lake · Great Expectations |
+| [Azure-ETL-Factory](link) | Batch ETL pipeline with ADF orchestration | Azure Data Factory · Data Lake Gen2 · Databricks · Power BI |
+| [Airflow-Data-Pipeline](link) | Orchestrated pipeline with monitoring dashboard | Airflow · PostgreSQL · Spark · Power BI |
+| [Spark-SQL-Performance-Lab](link) | Performance tuning & optimization patterns | PySpark · SQL · Delta Lake · Databricks |
+
+### 🏆 Certifications & Awards
+
+- Databricks Fundamentals Accreditation
+- AI/BI for Data Analysts (Databricks)
+- SQL Analytics on Databricks
+- Hult Prize International — Top 50 Worldwide
+- Multiple hackathon 1st prizes (AI2SD, UM6P, EMSI x AIESEC)
+
+### 📫 Contact
+
+- Email: othmanesadiki6114@gmail.com
+- LinkedIn: [Othmane Sadiki](linkedin-url)
