@@ -35,4 +35,4 @@ I build scalable data pipelines and lakehouse architectures on Azure & Databrick
 ### 📫 Contact
 
 - Email: othmanesadiki6114@gmail.com
-- LinkedIn: [Othmane Sadiki](linkedin-url)
+- LinkedIn: [Othmane Sadiki](https://www.linkedin.com/in/sadiki-othmane/)
