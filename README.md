@@ -117,8 +117,8 @@ My experience at **Silamir** working with **Bouygues Telecom** on Process Mining
 ## Github Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/?username=othmanestd&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505" alt="Othmane's GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=othmanestd&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/?username=othmanestd&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505&count_private=true&cache_seconds=1800" alt="Othmane's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=othmanestd&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505&exclude_repo=med-sc-hackathon,CALAPP,EMSI_smart_presence,support_platform&cache_seconds=1800" alt="Top Langs" />
 </p>
 
 <p align="center">
