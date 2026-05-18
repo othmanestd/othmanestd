@@ -104,21 +104,13 @@ My experience at **Silamir** working with **Bouygues Telecom** on Process Mining
 
 ## Featured Projects 🚀
 
-<a href="https://github.com/othmanestd/DataFlow360">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=othmanestd&repo=DataFlow360&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/othmanestd/Lakehouse-DQ-Pipeline">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=othmanestd&repo=Lakehouse-DQ-Pipeline&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/othmanestd/Azure-ETL-Factory">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=othmanestd&repo=Azure-ETL-Factory&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/othmanestd/Airflow-Data-Pipeline">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=othmanestd&repo=Airflow-Data-Pipeline&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/othmanestd/Spark-SQL-Performance-Lab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=othmanestd&repo=Spark-SQL-Performance-Lab&theme=github_dark&hide_border=true" />
-</a>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**DataFlow360**](https://github.com/othmanestd/DataFlow360) | Real-time IoT data pipeline with Lakehouse architecture (Bronze/Silver/Gold) | `Azure Event Hubs` `Spark Streaming` `Delta Lake` `Databricks` `Synapse` `Power BI` |
+| [**Lakehouse-DQ-Pipeline**](https://github.com/othmanestd/Lakehouse-DQ-Pipeline) | E-commerce Lakehouse pipeline with custom Data Quality framework | `PySpark` `Delta Lake` `Databricks` `Great Expectations` `Python` |
+| [**Azure-ETL-Factory**](https://github.com/othmanestd/Azure-ETL-Factory) | Batch ETL pipeline for retail sales with ADF orchestration | `Azure Data Factory` `Databricks` `Delta Lake` `Synapse` `Power BI` |
+| [**Airflow-Data-Pipeline**](https://github.com/othmanestd/Airflow-Data-Pipeline) | Dockerized pipeline orchestrated by Apache Airflow with PySpark | `Airflow` `Docker` `PySpark` `PostgreSQL` `Python` |
+| [**Spark-SQL-Performance-Lab**](https://github.com/othmanestd/Spark-SQL-Performance-Lab) | Performance tuning patterns: partitioning, joins, caching, window functions | `Spark` `SQL` `Delta Lake` `Databricks` `PySpark` |
 
 ---
 
